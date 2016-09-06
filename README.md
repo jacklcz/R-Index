@@ -1,6 +1,10 @@
 # RIndex
 技术知识点索引，每日一读
 
+### 2016.09.06
+* [分布式队列编程优化篇](http://tech.meituan.com/distributed_queue_based_programming-optimization.html)
+
+
 ### 2016.09.02
 * [互联网架构为什么要做服务化？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959519&idx=1&sn=065074b135fc9cb243abe897261e1a72&scene=1&srcid=09028G5FPFNeYg5nJSBNZLDQ#rd)
 * [微服务架构多“微”才合适？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959530&idx=1&sn=ff84bd74745eee1577e7dfef8ce66bbe&scene=1&srcid=09027E9p9yzBrNObojZTZsmC#rd)
