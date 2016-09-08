@@ -4,6 +4,8 @@
 
 ### 2016.09.08
 * [jvm开发笔记---class文件解析器](http://club.alibabatech.org/article_detail.htm?articleId=5)
+* [去哪儿酒店实时搜索技术分享](http://club.alibabatech.org/resource_detail.htm?topicId=95)
+
 
 ### 2016.09.06
 * [分布式队列编程优化篇](http://tech.meituan.com/distributed_queue_based_programming-optimization.html)
