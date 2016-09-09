@@ -2,7 +2,7 @@
 技术知识点索引，每日一读
 
 ### 2016.09.09
-* [鹰眼侠的淘宝](http://club.alibabatech.org/resource_detail.htm?topicId=102)
+* [鹰眼下的淘宝](http://club.alibabatech.org/resource_detail.htm?topicId=102)
 
 ### 2016.09.08
 * [jvm开发笔记---class文件解析器](http://club.alibabatech.org/article_detail.htm?articleId=5)
