@@ -1,6 +1,9 @@
 # RIndex
 技术知识点索引，每日一读
 
+### 2016.09.13
+* [虚拟化技术在淘宝] (http://club.alibabatech.org/resource_detail.htm?topicId=42)
+
 ### 2016.09.12
 * [高并发的隔离术] (http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978247&idx=1&sn=7133ed74a58c75fe7ceeb81342b8b470&scene=0#rd)
 
