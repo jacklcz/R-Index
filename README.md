@@ -1,6 +1,9 @@
 # RIndex
 技术知识点索引，每日一读
 
+### 2016.09.14
+* [七年编程，几个故事] (http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978232&idx=1&sn=043478d47c3878ee534bbcfe1d40a052&scene=0#rd)
+
 ### 2016.09.13
 * [虚拟化技术在淘宝] (http://club.alibabatech.org/resource_detail.htm?topicId=42)
 
