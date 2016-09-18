@@ -1,6 +1,10 @@
 # RIndex
 技术知识点索引，每日一读
 
+### 2016.09.18
+* [20个必不可少的Python库] (http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651371639&idx=1&sn=6d9c7903dd74664d3caa0b8a65cfe5ab&scene=0#rd)
+
+
 ### 2016.09.14
 * [七年编程，几个故事] (http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978232&idx=1&sn=043478d47c3878ee534bbcfe1d40a052&scene=0#rd)
 
