@@ -1,6 +1,9 @@
 # RIndex
 技术知识点索引，每日一读
 
+### 2016.09.19
+* [lvs为何不能完全替代DNS轮询] (http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959595&idx=1&sn=5f0633afd24c547b895f29f6538baa99&scene=0#rd)
+
 ### 2016.09.18
 * [20个必不可少的Python库] (http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651371639&idx=1&sn=6d9c7903dd74664d3caa0b8a65cfe5ab&scene=0#rd)
 * [基于Docker的RDS，我们是这样做的] (http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651662244&idx=1&sn=df48003cfa9bb339702cda63a88249f6&scene=1&srcid=0918gCFU3lMKTeEonhaFxNSf#rd)
